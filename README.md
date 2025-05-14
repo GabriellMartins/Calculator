@@ -33,5 +33,5 @@ Uma calculadora científica moderna com visual escuro e suporte a gráfico de fu
 ### 2. Clonar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/ScientificCalculator.git
-cd ScientificCalculator
+git clone https://github.com/GabriellMartins/Calculator.git
+cd Calculator
